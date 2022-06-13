@@ -1,7 +1,7 @@
-# ECharts-
-ECharts数据可视化项目-大屏数据可视化展示
-这个是基于echerts的大屏可视化，现在是静态的，通过加入ajax可以实现实时刷新
-目录结构
+# ECharts-简单介绍
+### ECharts数据可视化项目-大屏数据可视化展示
+### 这个是基于echerts的大屏可视化，现在是静态的，通过加入ajax可以实现实时刷新
+# 目录结构
 ECHARTS数据可视化项目-大屏数据可视化展示
 │  echerts使用.html
 │  index.html
